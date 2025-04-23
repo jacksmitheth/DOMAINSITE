@@ -1,0 +1,6 @@
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+# Add your HTML/CSS/JS files
+git add .
+git commit -m "Add website files"
+git push origin main
